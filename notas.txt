@@ -1,0 +1,20 @@
+CLASE 06
+----------------------------
+AJAX
+--------
+
+es la llamada asincronica hacia el servidor
+
+----------
+1ro se cambia los metodos,parametros
+
+se empieza escribiendo las fx de ajax que estan incluidas en jquery(programar en js
+)
+
+----------
+que tenga un include de texto--> esto lo hace dinamico
+osea sin recargar la pagina--> asincronico
+
+-----
+la pag solo se recarga cuando se usa html,css,ajax
+no se recarga si modificamos php xq esta cargado en memoria
